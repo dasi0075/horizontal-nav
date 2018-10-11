@@ -8,12 +8,12 @@ html {
 }
 
 body {
-  margin: .1em;
+  margin: .8em;
   display: inline-block;
 }
 
 h1 {
-  font-family: "Bevan", sans-serif;
+  font-family: 'Bevan', sans-serif;
   line-height: 1.5;
   width: 100%;
   text-align: center;
@@ -27,10 +27,11 @@ div {
   border-style: solid;
   border-color: #595652;
   position: absolute;
+  text-decoration: initial;
 }
 
 nav {
-  font-family: "Bevan", sans-serif;
+  font-family: 'Bevan', sans-serif;
   font-size: 1.125rem;
   font-weight: normal;
   border-width: inherit;
@@ -39,7 +40,7 @@ nav {
 
 nav a:hover {
   color: #f33;
-  text-decoration: none;
+  text-decoration: initial;
 }
 
 nav ul {
