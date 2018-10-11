@@ -8,14 +8,14 @@ html {
 }
 
 body {
-  margin: 0 .5em 1em;
+  margin: .3em;
   max-width: 20em;
+  line-height: 1.5;
   display: inline-block;
 }
 
 h1 {
   font-family: "Bevan", cursive;
-  line-height: 1.5;
   width: 100%;
   text-align: center;
   color: #fff;
@@ -24,11 +24,11 @@ h1 {
 div {
   background-color: #79756f;
   margin: auto;
-  padding: .6em;
+  padding: .6em, .5em .75em;
   border-style: solid;
   border-color: #595652;
   position: absolute;
-  text-decoration: initial;
+  text-decoration: none;
 }
 
 nav {
@@ -52,9 +52,9 @@ nav ul {
 .intro {
   display: inline-block;
   list-style-type: none;
-  color: #fff;
   margin: .3em;
   background-color: #713837;
+  color: #fff;
   padding: .3em;
   border-radius: .3em;
 }
