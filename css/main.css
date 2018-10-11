@@ -8,7 +8,7 @@ html {
 }
 
 h1 {
-  font-family: 'Bevan', cursive;
+  font-family: Bevan, sans-serif;
   line-height: 1.5;
   text-align: center;
   color: #fff;
@@ -19,15 +19,20 @@ div {
   margin: auto;
   padding: .6em;
   border-style: solid;
-  border-color: #595652
+  border-color: #595652;
 }
 
 nav {
-  font-family: "Bevan", sans-serif;
+  font-family: Bevan, sans-serif;
   font-size: 1.125rem;
   font-weight: normal;
   border-width: inherit;
   border-color: #595652;
+}
+
+nav a:hover {
+  color: #f33;
+  text-decoration: none;
 }
 
 nav ul {
