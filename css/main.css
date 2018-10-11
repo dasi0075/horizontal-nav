@@ -16,7 +16,7 @@ h1 {
 
 div {
   background-color: #79756f;
-  margin: none;
+  margin: auto;
   padding: .6em;
   border-style: solid;
   border-color: #595652
@@ -27,7 +27,7 @@ nav {
   font-size: 1.125rem;
   font-weight: normal;
   border-width: inherit;
-  border color: #595652;
+  border-color: #595652;
 }
 
 nav ul {
