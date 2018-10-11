@@ -8,24 +8,25 @@ html {
 }
 
 body {
-  margin: .3em;
-  width: 650px;
+  margin: .1em;
+  display: inline-block;
 }
 
 h1 {
   font-family: "Bevan", sans-serif;
   line-height: 1.5;
+  width: 100%;
   text-align: center;
   color: #fff;
 }
 
 div {
-  display: inline-block;
   background-color: #79756f;
   margin: auto;
   padding: .6em;
   border-style: solid;
   border-color: #595652;
+  position: absolute;
 }
 
 nav {
