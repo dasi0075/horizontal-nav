@@ -24,7 +24,7 @@ h1 {
 div {
   background-color: #79756f;
   margin: auto;
-  padding: .6em, .5em .75em;
+  padding: .6em, .5em, .75em;
   border-style: solid;
   border-color: #595652;
   position: absolute;
@@ -46,6 +46,7 @@ nav a:hover {
 
 nav ul {
   list-style-type: none;
+  text-decoration: none;
   color: #fff;
 }
 
