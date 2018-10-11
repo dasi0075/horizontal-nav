@@ -12,12 +12,23 @@ h1 {
   line-height: 1.5;
   color: #fff;
   padding: .6em .5em .75em;
-  background-color: #595652;
+  background-color: #79756f;
+  border-color: #595652;
   margin: .3em;
 }
 
-ul {
-  padding: .6em;
+nav {
+  font-family: "Bevan", sans-serif;
+  font-size: 1.125rem;
+  font-weight: normal;
   background-color: #713837;
+}
 
+nav ol {
+  list-style-type: none;
+  color: #fff
+}
+
+div {
+  display: inline-block;
 }
