@@ -12,14 +12,13 @@ h1 {
   line-height: 1.5;
   text-align: center;
   color: #fff;
-  border-color: #595652;
-  margin: .3em;
 }
 
 div {
   background-color: #79756f;
   margin: none;
   padding: .6em;
+  border-style: solid;
   border-color: #595652
 }
 
@@ -38,36 +37,40 @@ nav ol {
 
 .intro {
   display: inline-block;
-  text-decoration: none;
+  list-style-type: none;
   color: #fff;
   margin: .3em;
   background-color: #713837;
-  padding: .2em;
+  padding: .3em;
+  border-radius: .3em;
 }
 
 .planets {
   display: inline-block;
-  text-decoration-line: none;
+  list-style-type: none;
   color: #fff;
   margin: .3em;
   background-color: #713837;
-  padding: .2em;
+  padding: .3em;
+  border-radius: .3em;
 }
 
 .mars {
   display: inline-block;
-  text-decoration-line: none;
+  list-style-type: none;
   color: #fff;
   margin: .3em;
   background-color: #713837;
-  padding: .2em;
+  padding: .3em;
+  border-radius: .3em;
 }
 
 .venus {
   display: inline-block;
-  text-decoration-line: none;
+  list-style-type: none;
   color: #fff;
   margin: .3em;
   background-color: #713837;
-  padding: .2em;
+  padding: .3em;
+  border-radius: .3em;
 }
