@@ -8,12 +8,13 @@ html {
 }
 
 body {
-  margin: .8em;
+  margin: 0 .5em 1em;
+  max-width: 20em;
   display: inline-block;
 }
 
 h1 {
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", cursive;
   line-height: 1.5;
   width: 100%;
   text-align: center;
@@ -31,7 +32,7 @@ div {
 }
 
 nav {
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", cursive;
   font-size: 1.125rem;
   font-weight: normal;
   border-width: inherit;
