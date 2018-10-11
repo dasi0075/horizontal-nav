@@ -7,16 +7,20 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: .3em;
+  width: 650px;
+}
 
 h1 {
   font-family: "Bevan", sans-serif;
   line-height: 1.5;
   text-align: center;
-  list-style-type: none;
   color: #fff;
 }
 
 div {
+  display: inline-block;
   background-color: #79756f;
   margin: auto;
   padding: .6em;
