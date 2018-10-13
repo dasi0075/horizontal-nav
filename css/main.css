@@ -8,8 +8,9 @@ html {
 }
 
 body {
-  margin: inherit;
-  max-width: 30em;
+  margin-left: auto;
+  margin: auto;
+  max-width: 100%;
   line-height: 1.5;
   display: inline-block;
 }
@@ -36,6 +37,9 @@ nav {
   font-size: 1.25rem;
   font-weight: bold;
   border-width: inherit;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  display: inline-block;
   border-color: #595652;
 }
 
