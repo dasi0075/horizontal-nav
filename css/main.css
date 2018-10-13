@@ -9,7 +9,7 @@ html {
 
 body {
   margin-left: auto;
-  margin: auto;
+  margin: inherit;
   max-width: 100%;
   line-height: 1.5;
   display: inline-block;
