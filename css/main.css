@@ -58,3 +58,8 @@ a {
   padding: .6em;
   border-radius: .3em;
 }
+
+ul li {
+  display: inline-block;
+  list-style-type: none;
+}
