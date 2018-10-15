@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  font-family: "Bevan";
+  font-family: Bevan, sans-serif;
   font-size: 2em;
   margin: 0;
   width: 100vw;
